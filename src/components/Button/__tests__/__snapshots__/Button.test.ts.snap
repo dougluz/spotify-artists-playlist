@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button tests should display the button whitout any props 1`] = `
+<button
+  class="md primary"
+>
+  Click
+</button>
+`;
